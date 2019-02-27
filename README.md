@@ -12,7 +12,7 @@ I chose “Fakebook” by Fathom because I have been following the news about Ru
 ### Art Piece 2
 
 ![Between Five Bells](images/between_five_bells.jpg?raw=true "Between Five Bells")
-![Between Five Bells Wine](images/winebottles.png?raw=true "Between Five Bells Wine")
+![Between Five Bells Wine](images/winebottle.png?raw=true "Between Five Bells Wine")
 
 I chose "Between Five Bells" wine labels by Feltron. I thought this piece was interesting because it uses data visualization to create an aestetically pleasing consumer product. It visualizes information about the type of wine and the particular bottles. The wines displayed are blends of several types of wine and the labels show the proportons of each type of wine within it. It also shows temperatures of the wine and various other aspects of the winemaking process. I really like this piece because I enjoy wine but find it difficult to understand the nuances of wine types and the winemaking process. Displaying visualizations of wine data on the bottle label makes it easier to understand what makes a particular bottle taste the way it does. It gives more information to the consumer in a way that's easy to comprehend.
 
